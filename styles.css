@@ -1,0 +1,14 @@
+.FF-E {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: firebrick;
+    text-align: center;
+    border-style: dashed solid dotted double;
+    border-color: #45FFCA #FEFFAC #FFB6D9 #D67BFF;
+    border-width: 10px 3px 5px 1px;
+    background-color: #FEFFAC;
+}
+.FF-GF {
+    font-family: 'Roboto', sans-serif;
+    color: chocolate;
+    text-align: center;
+}
